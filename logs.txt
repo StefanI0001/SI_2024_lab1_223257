@@ -1,0 +1,8 @@
+git commit -m "Initial commit"
+git commit -m "Add starter code"
+git commit -m "Fix wrong condition in filterOddLengthStrings"
+git commit -m "Fix wrong condition in makeBigStringFrom"
+git commit -m "Call method filterOddLengthStrings in main class"
+git commit -m "Call method makeBigStringFrom in main class"
+git commit -m "Call method makeBigStringFrom in main class"
+git commit -m "Final commit"
